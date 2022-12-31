@@ -1,5 +1,7 @@
 # Startup_Namer
+
 **_By Rosemary Ojwang_**
+
 _A simple Application that generates proposed names for a startup company._
 
 ## Technologies Used
